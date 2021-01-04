@@ -1,5 +1,6 @@
+# https://youtu.be/XGf2GcyHPhc
 # Simple Pong in Python 3 for Beginners
-# by @TokyoEdTecb
+# by @TokyoEdTech
 
 import turtle
 
